@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calcualtor</string>
+    <string name="menu_settings">settings</string>
+    <string name="hello_world">hello world</string>
+</resources>
